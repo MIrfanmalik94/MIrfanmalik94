@@ -1,11 +1,11 @@
 👋 Welcome to my GitHub portfolio! I'm Muhammad Irfan, a dedicated data scientist and machine learning engineer passionate about leveraging AI to solve real-world problems.
 
-Education
+Education:
 
 Master of Computer Science (MCS), The Islamia University of Bahawalpur
 Graduated with honors, specializing in Data Science and Machine Learning.
 
-Final Year Project
+Final Year Project:
 
 Attendance Management System by Facial Recognition
 
@@ -13,12 +13,12 @@ Developed an innovative system using facial recognition technology to automate a
 Streamlined the attendance process, enhancing efficiency and accuracy.
 Implemented with Python, OpenCV, and TensorFlow.
 
-Certifications
+Certifications:
 
 Artificial Intelligence Course with A-grade
 National Vocational & Technical Training Commission, The Islamia University of Bahawalpur
 
-Projects
+Projects:
 
 Facial Emotion Recognition
 
@@ -38,15 +38,15 @@ Designed and deployed a chatbot for customer service automation.
 Integrated natural language processing (NLP) algorithms for understanding user queries.
 Tools: Python, NLTK, TensorFlow.
 
-Open Source Contributions
+Open Source Contributions:
 
 Contributed to various open-source projects in the fields of data science and machine learning.
 Collaborated with developers worldwide to improve code quality and functionality.
 Learning Resources
-
 Tutorials: Regularly update my GitHub repository with tutorials and guides for fellow enthusiasts.
 Courses: Continuously expand my knowledge through online courses and workshops.
 Books: Enjoy reading books on AI, data science, and programming.
+
 Contact Me
 
 📧 Email: 
